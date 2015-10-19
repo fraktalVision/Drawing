@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">myDrawing</string>
     <string name="action_settings">Settings</string>
+    <string name="drawingText">I am drawing</string>
+    <string name="pathText">drawing on a Path can be lots of fun</string>
 </resources>
